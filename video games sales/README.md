@@ -1,5 +1,5 @@
 # Video Games Sales Power BI Dashboard
-This is a sample GitHub README file for a Video Games Sales Power BI Dashboard project. In this project, we will create a dashboard using Power BI to analyze and visualize video game sales data.
+This README file for  Video Games Sales Power BI Dashboard project. In this project, we will create a dashboard using Power BI to analyze and visualize video game sales data.
 
 # Table of Contents
 ## Introduction
